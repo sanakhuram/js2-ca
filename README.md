@@ -1,4 +1,7 @@
 # JavaScript 2 Course Assignment
+# live view 
+
+https://fed-js2-ca-sanakhuram.netlify.app/
 
 ## 2023/4 Study Plan
 
